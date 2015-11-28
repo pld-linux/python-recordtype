@@ -7,7 +7,7 @@ Summary:	Similar to namedtuple, but instances are mutable
 Summary(pl.UTF-8):	Dostarcza klasy podobne do namedtuple, ale modifikowalne
 Name:		python-%{module}
 Version:	1.1
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/r/recordtype/%{module}-%{version}.tar.gz
