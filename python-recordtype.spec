@@ -16,7 +16,7 @@ URL:		https://bitbucket.org/ericvsmith/recordtype
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
 # if py_postclean is used
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 #Requires:		python-libs
 Requires:	python-modules
 BuildArch:	noarch
